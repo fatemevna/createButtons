@@ -1,0 +1,10 @@
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\bin\Debug\DynamicallyCreateButtons.exe.config
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\bin\Debug\DynamicallyCreateButtons.exe
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\bin\Debug\DynamicallyCreateButtons.pdb
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\obj\Debug\DynamicallyCreateButtons.csproj.AssemblyReference.cache
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\obj\Debug\DynamicallyCreateButtons.Form1.resources
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\obj\Debug\DynamicallyCreateButtons.Properties.Resources.resources
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\obj\Debug\DynamicallyCreateButtons.csproj.GenerateResource.cache
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\obj\Debug\DynamicallyCreateButtons.csproj.CoreCompileInputs.cache
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\obj\Debug\DynamicallyCreateButtons.exe
+C:\Users\mohajer\source\repos\DynamicallyCreateButtons\DynamicallyCreateButtons\obj\Debug\DynamicallyCreateButtons.pdb
